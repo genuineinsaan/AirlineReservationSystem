@@ -1,0 +1,10 @@
+code to run 
+
+javac -d bin -sourcepath src -cp "lib/mysql-connector-j-8.0.33.jar;lib/jcalendar-1.4.jar" src/gui/LoginView.java
+
+java -cp "bin;lib/mysql-connector-j-8.0.33.jar;lib/jcalendar-1.4.jar" gui.LoginView
+
+
+Email: admin@airline.com
+
+Password: admin123
