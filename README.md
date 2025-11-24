@@ -2,8 +2,9 @@
 
 A comprehensive desktop application for managing flight bookings, schedules, and user profiles. Built from scratch using **Java Swing (GUI)** and **MySQL**.
 
-![Project Thumbnail](https://via.placeholder.com/800x400?text=Airline+System+V2.0+Dashboard) 
-*(Replace the link above with a screenshot of your actual dashboard)*
+![airline](https://github.com/user-attachments/assets/ee71329d-b283-46c4-b542-3cc046782bfc)
+ 
+
 
 ## 🌟 Features
 
@@ -64,13 +65,22 @@ The system uses a relational database `airline_system_v2` with the following str
 
 ## 📸 Screenshots
 
-*(Upload screenshots of your Login screen, User Dashboard, and Seat Map here)*
+<img width="558" height="438" alt="Screenshot 2025-11-24 081416" src="https://github.com/user-attachments/assets/06873fae-553a-4f11-893e-0cfc4bb7ae9f" />
+<img width="563" height="630" alt="Screenshot 2025-11-24 081423" src="https://github.com/user-attachments/assets/777a7a4a-4dd3-4153-9e91-11d14f489901" />
+<img width="1235" height="806" alt="Screenshot 2025-11-24 081503" src="https://github.com/user-attachments/assets/84be189c-3048-4f2e-9ffa-f62d4e8925e3" />
+<img width="1244" height="810" alt="Screenshot 2025-11-24 081513" src="https://github.com/user-attachments/assets/004c1bc6-ae8e-4552-bf3c-6e6f2a3b9851" />
+<img width="641" height="899" alt="Screenshot 2025-11-24 081540" src="https://github.com/user-attachments/assets/9efe266c-3cc2-4e09-a3e1-67387be605e7" />
+<img width="641" height="830" alt="Screenshot 2025-11-24 081547" src="https://github.com/user-attachments/assets/aa9337a4-6a7b-45fd-add5-71e37479e934" />
+<img width="1193" height="755" alt="Screenshot 2025-11-24 081718" src="https://github.com/user-attachments/assets/4681ae1f-eb99-4f14-bca3-892a9d7cc467" />
+<img width="572" height="669" alt="Screenshot 2025-11-24 081723" src="https://github.com/user-attachments/assets/2239bc04-f271-44da-a4c2-4c2a5c8d5dac" />
+<img width="1202" height="761" alt="Screenshot 2025-11-24 081731" src="https://github.com/user-attachments/assets/c6806713-509a-46d0-8635-3d3d6a762a50" />
+
 
 ## 👤 Author
 
 **[Shashank Srivastava]**
-* [LinkedIn](https://www.linkedin.com/in/yourprofile)
-* [GitHub](https://github.com/yourusername)
+* [LinkedIn](https://www.linkedin.com/in/shashank-srivastava-58269b281/)
+* [GitHub](https://github.com/genuineinsaan)
 
 ---
 *This project was developed as a capstone project demonstrating full-stack desktop development capabilities.*
